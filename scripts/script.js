@@ -39,5 +39,6 @@ DomElement.prototype.createdElement = function(){
 let DomElement1 = new DomElement('.block', 200, 200, 'red', 50);
 let DomElement2 = new DomElement('#best', 500, 500, 'yellow', 100);
 
+
 DomElement1.createdElement();
 // DomElement2.createdElement();
